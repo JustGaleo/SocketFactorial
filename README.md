@@ -1,0 +1,2 @@
+# SocketFactorial
+Sacar numeros factoriales
